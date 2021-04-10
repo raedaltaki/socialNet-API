@@ -48,7 +48,8 @@
 
   ![Image 1](./public/assets/images/.gif)
   
-  Deployed video: 
+  Deployed video: https://drive.google.com/file/d/1fI9Lz7DcPnNviiLBHHU3EtOU3fkqy2ws/view
+
   
   Repository: https://github.com/raedaltaki/socialNet-API
 
@@ -58,7 +59,7 @@
 
   ## Tests
 
-  Deployed video: 
+  Deployed video: https://drive.google.com/file/d/1fI9Lz7DcPnNviiLBHHU3EtOU3fkqy2ws/view
   
   Repository: https://github.com/raedaltaki/socialNet-API
 
