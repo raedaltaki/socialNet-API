@@ -46,7 +46,7 @@
 
   THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-  ![Image 1](./public/assets/images/.gif)
+  ![Image 1](./assets/images/socialNet-API.gif)
   
   Deployed video: https://drive.google.com/file/d/1fI9Lz7DcPnNviiLBHHU3EtOU3fkqy2ws/view
 
