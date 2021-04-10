@@ -20,7 +20,7 @@ router.get('/:id',(req,res)=>{
         res.status(404).json({ message: 'No thought found with this id!' });
         return;
     }
-    res.json(thoughtData)
+    res.json(thoughtData);
   })
   .catch(err => 
   {
@@ -56,7 +56,7 @@ router.put('/:id',(req,res)=>{
         res.status(404).json({ message: 'No thought found with this id!' });
         return;
     }
-    res.json(thoughtData)
+    res.json(thoughtData);
   })
   .catch(err => 
   {
@@ -74,7 +74,7 @@ router.delete('/:id',(req,res)=>{
         res.status(404).json({ message: 'No thought found with this id!' });
         return;
     }
-    res.json(thoughtData)
+    res.json(thoughtData);
   })
   .catch(err => 
   {

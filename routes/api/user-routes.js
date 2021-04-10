@@ -32,7 +32,7 @@ router.get('/:id',(req,res)=>{
         res.status(404).json({ message: 'No user found with this id!' });
         return;
     }
-    res.json(userData)
+    res.json(userData);
   })
   .catch(err => 
   {
@@ -60,7 +60,7 @@ router.put('/:id',(req,res)=>{
         res.status(404).json({ message: 'No user found with this id!' });
         return;
     }
-    res.json(userData)
+    res.json(userData);
   })
   .catch(err => 
   {
@@ -78,7 +78,7 @@ router.delete('/:id',(req,res)=>{
         res.status(404).json({ message: 'No user found with this id!' });
         return;
     }
-    res.json(userData)
+    res.json(userData);
   })
   .catch(err => 
   {
@@ -99,7 +99,7 @@ router.post('/:userId/friends/:friendId',(req,res)=>{
         res.status(404).json({ message: 'No user found with this id!' });
         return;
     }
-    res.json(userData)
+    res.json(userData);
   })
   .catch(err => 
   {
@@ -120,7 +120,7 @@ router.delete('/:userId/friends/:friendId',(req,res)=>{
         res.status(404).json({ message: 'No user found with this id!' });
         return;
     }
-    res.json(userData)
+    res.json(userData);
   })
   .catch(err => 
   {
